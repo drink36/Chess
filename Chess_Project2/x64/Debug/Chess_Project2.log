@@ -1,0 +1,6 @@
+﻿  GameManager.cpp
+C:\Users\user\Desktop\程式題目\C++\Chess c++\Chess_Project2\GameManager.cpp(26,25): warning C4244: 'argument': conversion from 'double' to 'clock_t', possible loss of data
+C:\Users\user\Desktop\程式題目\C++\Chess c++\Chess_Project2\GameManager.cpp(153,25): warning C4244: 'argument': conversion from 'double' to 'clock_t', possible loss of data
+C:\Users\user\Desktop\程式題目\C++\Chess c++\Chess_Project2\GameManager.cpp(250,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\程式題目\C++\Chess c++\Chess_Project2\GameManager.cpp(298,17): warning C4244: 'argument': conversion from 'double' to 'clock_t', possible loss of data
+  Chess_Project2.vcxproj -> C:\Users\user\Desktop\程式題目\C++\Chess c++\Chess_Project2\x64\Debug\Chess_Project2.exe

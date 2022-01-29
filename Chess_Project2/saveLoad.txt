@@ -1,0 +1,5 @@
+W pos.x pos.y movetime passent Icon
+B pos.x pos.y movetime passent Icon
+--------------------------------------
+W_castling[0] W_castling[1]
+B_castling[0] B_acstling[1]

@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\程式題目\C++\Chess c++\Chess_Project2\Debug\Chess_Project2.exe
+C:\Users\user\Desktop\程式題目\C++\Chess c++\Chess_Project2\Debug\Chess_Project2.pdb
